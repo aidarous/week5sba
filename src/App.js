@@ -18,7 +18,7 @@ function App(props) {
     <Router>
     
       <div className="App">
-        <h1>Groery 2.0</h1>
+        <h1>Grocery 2.0</h1>
       </div>
       <Switch >
         <Route Path="/">
